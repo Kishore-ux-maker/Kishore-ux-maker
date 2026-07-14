@@ -1,82 +1,207 @@
 <div align="center">
+<pre>
+██╗  ██╗██╗███████╗██╗  ██╗ ██████╗ ██████╗ ███████╗
+██║ ██╔╝██║██╔════╝██║  ██║██╔═══██╗██╔══██╗██╔════╝
+█████╔╝ ██║███████╗███████║██║   ██║██████╔╝█████╗
+██╔═██╗ ██║╚════██║██╔══██║██║   ██║██╔══██╗██╔══╝
+██║  ██╗██║███████║██║  ██║╚██████╔╝██║  ██║███████╗
+╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
 
-# Hi, I'm Kishore Kethavath
+K E T H A V A T H
+</pre>
 
-### Full-Stack Web Developer | MERN Stack Builder | Open Source Learner
+### `FULL-STACK ENGINEER • PRODUCT BUILDER • CURIOUS MIND`
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Building+clean+and+scalable+web+apps;React+%2B+Node.js+%2B+MongoDB;Always+learning%2C+shipping%2C+and+improving)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=%24+turning+ideas+into+working+products_;%24+building+across+frontend+%E2%86%92+backend+%E2%86%92+cloud_;%24+learning+by+building.+improving+by+shipping._" alt="Animated developer introduction" />
 
-[![Email](https://img.shields.io/badge/Email-kishorekethavath10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorekethavath10@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Kishore-ux-maker&style=for-the-badge&color=36BCF7)](https://github.com/Kishore-ux-maker)
+<br/>
+
+<a href="mailto:kishorekethavath10@gmail.com"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Kishore" /></a>
+<a href="https://github.com/Kishore-ux-maker"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Kishore on GitHub" /></a>
 
 </div>
 
 ---
 
-## About Me
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I'm a full-stack web developer focused on building practical, user-friendly web applications with the MERN stack. I enjoy turning ideas into working products, improving backend structure, and learning how to ship cleaner, faster, and more reliable software.
+## `01 // IDENTITY`
 
-- Currently working on innovative web applications and open source projects
-- Learning advanced backend architecture, cloud deployment, and DevOps practices
-- Open to collaborating on full-stack projects, MERN apps, and developer tools
-- Ask me about React, Node.js, Express, MongoDB, and web development fundamentals
-- Fun fact: I can debug code in my dreams, but coffee still gets the first interview
+```js
+const kishore = {
+  role: "Full-Stack Web Developer",
+  basedIn: "India 🇮🇳",
 
-## Tech Stack
+  building: [
+    "useful web products",
+    "scalable backend systems",
+    "better developer instincts"
+  ],
+
+  exploring: [
+    "Cloud",
+    "DevOps",
+    "AI",
+    "System Design"
+  ],
+
+  loop: "BUILD → BREAK → LEARN → SHIP"
+};
+```
+
+</td>
+<td width="42%" valign="top">
+
+## `02 // SIGNAL`
+
+```text
+STATUS       ONLINE
+MODE         BUILDING
+FOCUS        FULL STACK
+NEXT         SCALE
+CURIOSITY    ██████████ 100%
+COMFORT ZONE ██░░░░░░░░  20%
+```
+
+> I like software that solves a real problem — not projects that exist only to fill a résumé.
+
+</td>
+</tr>
+</table>
+
+## `03 // CURRENT TRANSMISSION`
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   BUILD   products people can actually use                   │
+│   LEARN   what happens beneath the abstraction               │
+│   SCALE   systems beyond the happy path                      │
+│   SHIP    before perfection becomes procrastination          │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+## `04 // TOOLBOX`
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**INTERFACE**
+
+<img src="https://skillicons.dev/icons?i=react,vite,js,html,css,tailwind&theme=dark" alt="Frontend technologies" />
+
+<br/><br/>
+
+**SYSTEMS & DATA**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,java&theme=dark" alt="Backend and database technologies" />
+
+<br/><br/>
+
+**SHIP & OPERATE**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel&theme=dark" alt="Development and deployment tools" />
 
 </div>
 
-## What I'm Focused On
+<br/>
 
-| Area | What I'm improving |
-| --- | --- |
-| Frontend | Responsive React interfaces, reusable components, clean UI flows |
-| Backend | REST APIs, authentication, database design, scalable architecture |
-| Deployment | Cloud hosting, CI/CD basics, environment management, DevOps workflows |
-| Collaboration | Open source contributions, readable code, useful documentation |
+## `05 // BUILDS`
 
-## GitHub Activity
+<table>
+<tr>
+<td width="100%">
+
+### `◆ WEDTRACK` — *main build*
+
+**A wedding guest and gift management platform built around a real-world workflow.**
+
+```text
+Guest scans QR
+      ↓
+Enters gift / visit details
+      ↓
+Host receives structured records
+      ↓
+Search • Filter • Track • Export
+```
+
+`React` `Supabase` `Edge Functions` `Vercel`
+
+**Built around:** QR-based guest access · guest & gift tracking · payment records · host dashboard · search & filters · PDF reports · real-time workflows
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `◆ VOICE NOTEBOOK`
+
+**Speak → understand → structure → save**
+
+A voice-first web application that turns natural speech into structured notes and records using browser speech technology.
+
+`JavaScript` `Web Speech API`
+
+</td>
+<td width="50%" valign="top">
+
+### `◆ DEVELOPER PORTFOLIO`
+
+**A playground for interaction.**
+
+A modern personal web experience built with React, Tailwind CSS, animation and experiments with 3D interfaces.
+
+`React` `Tailwind CSS` `3D Web`
+
+</td>
+</tr>
+</table>
+
+## `06 // ENGINEERING LOG`
+
+```diff
++ Building across frontend, backend and databases
++ Turning real-world workflows into software products
++ Learning by shipping projects instead of only watching tutorials
+! Exploring scalable architecture, cloud and DevOps
+! Getting comfortable with the parts that break in production
+~ Next version is always under construction
+```
+
+## `07 // ACTIVITY`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kishore-ux-maker&theme=transparent&hide_border=true&show_icons=true&count_private=true" alt="Kishore's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-ux-maker&theme=transparent&hide_border=true&layout=compact&langs_count=8" alt="Kishore's top languages" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Kishore-ux-maker&theme=transparent&hide_border=true" alt="Kishore's GitHub streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishore-ux-maker&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Kishore's GitHub contribution activity graph" />
 
 </div>
 
-## Highlights
+---
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kishore-ux-maker&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1)
+### `08 // OPEN_CHANNEL`
+
+**Interesting problem? Useful idea? Something worth building?**
+
+<a href="mailto:kishorekethavath10@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation by email" /></a>
+
+<br/><br/>
+
+```text
+┌─ kishore@github
+└─$ keep_building_ █
+```
+
+<sub>Designed with code, curiosity, and too many browser tabs.</sub>
 
 </div>
 
-## Let's Build Together
-
-I'm always interested in meaningful projects, clean web experiences, and open source collaboration. If you're building something with React, Node.js, MongoDB, or a full-stack JavaScript workflow, feel free to reach out.
-
-<div align="center">
-
-### Thanks for visiting my profile
-
-![Footer Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Keep+building.;Keep+learning.;Keep+shipping.)
-
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
